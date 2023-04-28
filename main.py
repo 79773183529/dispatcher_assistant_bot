@@ -68,7 +68,7 @@ async def on_startup(dp):
 
     for alpha in "DispatcherAssistantBoT:  OnLine":
         print(alpha, end='')
-        await asyncio.sleep(0.2)
+        await asyncio.sleep(0.3)
 
 
 if __name__ == '__main__':
