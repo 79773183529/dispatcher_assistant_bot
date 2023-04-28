@@ -14,7 +14,7 @@ bot.parse_mode = 'HTML'
 dp = Dispatcher(bot, storage=MemoryStorage())
 scheduler = AsyncIOScheduler()
 
-id_creator = 1068817703
-id_Roman = 5447383130
+id_creator = os.getenv('id_creator')
+id_Roman = os.getenv('id_Roman')
 
 id_group_list = [id_creator, id_Roman]

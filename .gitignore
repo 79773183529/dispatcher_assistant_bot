@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+
+.env
+.idea
+.gitignore
+
+sendLocation.py
+test.py
+test_new.py
+testDatetime.py
+testTime.py
+
+
+
