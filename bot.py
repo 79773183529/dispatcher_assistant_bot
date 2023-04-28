@@ -18,3 +18,5 @@ id_creator = os.getenv('id_creator')
 id_Roman = os.getenv('id_Roman')
 
 id_group_list = [id_creator, id_Roman]
+
+YA_TOKEN = os.getenv('YA_TOKEN')

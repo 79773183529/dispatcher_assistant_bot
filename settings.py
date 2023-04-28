@@ -1,6 +1,6 @@
-from bot import id_creator
+from bot import id_creator, YA_TOKEN
 
-YA_TOKEN = "y0_AgAAAAA67ujiAAkn2QAAAADcfa7VF0Ld4q37TW-FPSIhbcOEcP_kNu4"
+YA_TOKEN = YA_TOKEN
 
 ROOT_DIRECTORY = "/root/python/yadisk_assistant"
 
